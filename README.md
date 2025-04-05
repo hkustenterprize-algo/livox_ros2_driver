@@ -1,5 +1,12 @@
 # Livox ROS2 Driver([览沃ROS2驱动程序中文说明](https://github.com/Livox-SDK/livox_ros2_driver/blob/master/README_CN.md))
 
+
+*** 
+## (Modification Record for ENTERPRIZE)
+
+1. Add gitignore file to ignore middleware file from colcon build
+***
+
 The Livox ROS2 driver is a driver package based on ROS2, specifically used to connect LiDAR products produced by Livox.
 ## 0. Version and Release History
 
